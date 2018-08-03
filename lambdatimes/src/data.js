@@ -1,7 +1,7 @@
-/* Do not change anything in this file until you are completed with the assignment 
+/* Do not change anything in this file until you are completed with the assignment
    and have moved onto the stretch goals. */
 
-export const tabData = ['all', 'javascript', 'technology', 'node', 'React.js', 'bootstrap'];
+export const tabData = ['all', 'javascript', 'technology', 'node', 'React.js', 'bootstrap', 'random'];
 
 export const cardData = [
   {
@@ -23,6 +23,12 @@ export const cardData = [
     author: "FIDO WALKSALOT"
   },
   {
+    headline: "Jennifer doesn't know how to use React",
+    tab: "random",
+    img: "./assets/fido.jpg",
+    author: "JENNIFER PLAYER"
+  },
+  {
     headline: "AI: What Are the Ethical Rammifications of the Future?",
     tab: "technology",
     img: "./assets/max.jpg",
@@ -41,6 +47,12 @@ export const cardData = [
     author: "MAX GOODBOYE"
   },
   {
+    headline: "Jennifer kinda regrets trying to learn code!",
+    tab: "random",
+    img: "./assets/fido.jpg",
+    author: "JENNIFER PLAYER"
+  },
+  {
     headline: "Node.js in 2018: Which Framework? Express, Sails, Hapi?",
     tab: "node",
     img: "./assets/sir.jpg",
@@ -51,6 +63,12 @@ export const cardData = [
     tab: "node",
     img: "./assets/bones.jpg",
     author: "BONES R. LIFE"
+  },
+  {
+    headline: "Jennifer doesn't know what to do with her life!",
+    tab: "random",
+    img: "./assets/fido.jpg",
+    author: "JENNIFER PLAYER"
   },
   {
     headline: "React.js v16 What's new, and what you should know about.",
