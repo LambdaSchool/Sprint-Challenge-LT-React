@@ -1,0 +1,4 @@
+1. PropTypes are used to check our data that is being passed to components and making sure it is the right type of data so our program does not get bugs.
+2. A lifecycle event is one of the phases of a components life. There is Mounting, Updating, and Un-mounting. With these phases we can use methods to control some of their behavior.
+3. A HOC is a function that has a Component as an argument and then will return a new Component.
+4. You can style components by the usual CSS/LESS, use reactstrap, or use styled-components. Reactstrap is a bootstrap library and styled-components are used in the same file as our Components.
